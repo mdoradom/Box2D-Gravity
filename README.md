@@ -47,6 +47,10 @@ To run this project locally:
 
 - [Newton's Law of Universal Gravitation - Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
 
+## Download
+
+You can download the source code and executable from the [Releases](https://github.com/mdoradom/Box2D-Gravity/releases) section.
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the project, make improvements, and submit pull requests.
